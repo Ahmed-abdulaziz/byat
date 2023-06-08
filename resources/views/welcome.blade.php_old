@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="wilih=device-wilih, initial-scale=1">
+    <link rel="stylesheet" href="{{asset('land/css/bootstrap.min.css')}}" />
+    <link rel="stylesheet" href="{{asset('land/css/bootstrap-rtl.css')}}" />
+    <link rel="stylesheet" type="text/css" href="{{asset('land/css/style.css')}}" />
+    <link rel="stylesheet" type="text/css" href="{{asset('land/css/font-awesome.min.css')}}">
+    <link rel="icon" href="{{asset('land/images/favicon.png')}}" type="image/png">
+    <script type="text/javascript" src="land/js/jquery.js"></script>
+    <script type="text/javascript" src="land/js/bootstrap.min.js"></script>
+    <script src="land/js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="land/js/script.js"></script>
+    <title>لحظة - Lahza</title>
+</head>
+
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<header>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container"> <a href="#" class="lang"><i class="fa fa-flag-o" aria-hidden="true"></i>  </a>
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li><a class="page-scroll" href="#page-top">الرئيسية</a> </li>
+                    <li><a class="page-scroll" href="#about">عن التطبيق</a> </li>
+
+                    <li><a class="page-scroll" href="#hawbox"> كيفيه الاستخدام</a></li>
+                    <li><a class="page-scroll" href="#contact">اتصل بنا</a> </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+
+            <nav class="social"> <a href="#" class="fa fa-facebook fac" title="facebook"> </a> <a href="#" class="fa fa-twitter twe" title="twitter"></a> <a href="#" class="fa fa-google-plus plus-flw" title="google-plus"> </a> <a href="#" class="fa fa-linkedin linkedin-flw" title="linkedin"> </a> <a href="#" class="fa fa-instagram instg" title="instagram"></a> <a href="#" class="fa fa-snapchat-ghost ghost" title="snapchat"> </a> </nav>
+            <div class="logo"><a href="#"><img src="{{asset('land/images/logo.png')}}" title="@lang('site.Souqreem')"></a> </div>
+        </div>
+        <!-- /.container -->
+    </nav>
+</header>
+<!-- header -->
+
+<section id="home">
+    <div class="siderdiv">
+        <div class="bg-overlay"></div>
+        <div class="container posbox">
+            <h1 class="title-to"><span>  </span> </h1>
+            <p class="text-to">
+
+                <br/>
+               </p>
+{{--            <a data-toggle="modal" data-target="#myModal" class="add-adv"><i class="fa fa-play" aria-hidden="true"></i> شاهد الفيديو</a>--}}
+            <div class="mobil"><img src="{{asset('land/images/image.png')}}"></div>
+        </div>
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">×</button>
+                        <h4 class="modal-title"><i class="fa fa-play" aria-hidden="true"></i> مشاهدة الفيديو</h4>
+                    </div>
+                    <div class="mapbox">
+                        <iframe  src="https://www.youtube.com/embed/ZNtCVhg6xWc" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--//.siderdiv-->
+    </div>
+    <div class="boxmin">
+        <div class="container"> <a href="https://apps.apple.com/us/app/souqrim-%D8%B3%D9%88%D9%82-%D8%B1%D9%8A%D9%85/id1593221924" class="icondown"> <i class="fa fa-apple" aria-hidden="true"></i> تحميل التطبيق <span>من متجر أبل</span> </a> <a href="https://play.google.com/store/apps/details?id=com.atiaf.souqreem" class="icondown"> <i class="fa fa-google-wallet" aria-hidden="true"></i> تحميل التطبيق <span>من متجر جوجل</span> </a> </div>
+        <!--//.container-->
+    </div>
+</section>
+<section id="about" class="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3 regastsdr gastsdr"> <img src="{{asset('land/images/image2.png')}}"> </div>
+            <!--regast-->
+
+            <div class="col-sm-9 regastsdr">
+                <h1 class="titleaput">عن التطبيق</h1>
+                <p class="textwelocm">
+
+
+                 يعتبرتطبيق لحظة أفضل وأسرع طريقة لبيع وشراء المنتجات الجديدة و المستعملة كالسیارات والعقارات وسائر الإلكترونيات، بالإضافة إلى إمكانية البحث عن وظائف شاغرة والإعلان عنها وايضا اختيار الحرف في جميع المجالات
+یمكنك عبر تطبيق لحظة عرض العديد من المنتجات سواء للبيع أو الإيجار بشكل مجاني و بدون أي عمولة و ذلك من
+خلال أحد الأقسام التالية:
+قسم السيارات والذي يضم آلاف السيارات والمركبات المعروضة سواء للبيع أو الإيجار.
+قسم العقارات والذي یمكنك من الإعلان عن الفلل والشقق والأراضي والمكاتب للبيع أو للإيجار، حيث یسهل
+علیك البحث عن العقارات في مدينتك ومنطقتك بدون عناء.
+3.              قسم إعلانات التوظيف المخصص للإعلان عن الوظائف الشاغرة، وفرص العمل المتاحة في السوق المحلي،
+كما یمكن الباحثين عن عمل من طلب الوظائف بالإضافة إلى رفع سيرهم الذاتية على التطبیق مباشرة.
+4.  قسم الإعلانات المبوبة ويندرج تحته العديد من المنتجات الأجهزة الإلكترونية و المنزلية، والمفروشات،
+والساعات والمجوهرات، والملابس والجوالات، ، مستلزمات الأطفال، وغيرها الكثير من الأغراض المعروضة
+للبیع أونلاین .
+كما تتيح الإعلانات المبوبة الإعلان عن الخدمات والحرف العديدة، كنقل العفش، والنجارة ، والأصباغ، والتنظيف،
+واستقدام العمالة، إلى آخره من سائر الخدمات الضرورية في دولة الكويت
+                    <br>
+
+   
+
+                <nav class="link-fot"> <a href="https://play.google.com/store/apps/details?id=com.atiaf.souqreem"><img href="" src="{{asset('land/images/go.png')}}"></a> <a href="https://apps.apple.com/us/app/souqrim-%D8%B3%D9%88%D9%82-%D8%B1%D9%8A%D9%85/id1593221924"><img src="{{asset('land/images/app.png')}}"></a> </nav>
+            </div>
+            <!--regast-->
+
+        </div>
+        <!--//row-->
+
+    </div>
+    <!--//container-->
+
+</section>
+
+<!-- Services Section -->
+
+<!--//container-->
+
+</section>
+<section id="hawbox" class="about howbox">
+    <div class="container">
+        <h2 class="title"> كيفيه الاستخدام</h2>
+        <div class="row">
+            <div class="col-sm-8 howwork">
+                <div> <span><span>1</span></span>
+                    <p>حمل التطبيق </p>
+                </div>
+                <div> <span><span>2</span></span>
+                    <p>  ايحث عن ما تريد</p>
+                </div>
+                <div> <span><span>3</span></span>
+                    <p>أو أضف اعلانك </p>
+                </div>
+            </div>
+            <!--howwork-->
+
+            <div class="imgbox"> <img src="{{asset('land/images/image2.png')}}"> </div>
+            <!--howwork-->
+
+        </div>
+        <!--//row-->
+
+    </div>
+    <!--//container-->
+
+</section>
+<section id="contact" class="contact">
+   <div class="container">
+        <div class="row">
+            <div class="col-sm-5 wit">
+                <h5 class="titlfot">معلومات التواصل</h5>
+
+                <p class="textfot"> {{$appseting->phone}}</p>
+                <p class="textfot">البريد الالكترونى : <a href="#">{{$appseting->email}}</a></p>
+                <nav class="social iconbot"> <a href="{{$appseting->facebook}}" class="fa fa-facebook fac" title="facebook"> </a> <a href="{{$appseting->twitter}}" class="fa fa-twitter twe" title="twitter"></a>   <a href="{{$appseting->instagram}}" class="fa fa-instagram instg" title="instagram"></a><a href="{{$appseting->twitter}}" class="fa fa-snapchat-ghost ghost" title="snapchat"> </a> </nav>
+            </div>
+            
+{{--            <div class="col-sm-7 wit">--}}
+{{--                <h5 class="titlfot">نسعد بتواصلك</h5>--}}
+{{--                <form action="#" method="" class="form-uecl">--}}
+{{--                    <div class="row">--}}
+{{--                        <div class="col-sm-6 input">--}}
+{{--                            <input type="text" class="form-control" placeholder="الاسم">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-6 input">--}}
+{{--                            <input type="text" class="form-control" placeholder=" البريد الالكترونى">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-12 input">--}}
+{{--                            <textarea class="form-control textarea" placeholder="الرسالة"></textarea>--}}
+{{--                            <button class="bot" type="submit"> ارسال</button>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <!--//row-->--}}
+{{--                </form>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <!--//row-->--}}
+
+{{--    </div>--}}
+    <!--//container-->
+
+</section>
+
+<!-- Contact Section -->
+
+<footer class="footer">
+    <div class="container">
+        <p class="rights">جميع الحقوق محفوظة © 2017  تطبيق لحظة - Lahza
+</p>
+        <a href="#" class="conta"> تصميم وتطوير تيك سوفت للحلول البرمجية</a> </div>
+    <!--//.container-->
+
+</footer>
+</body>
+</html>

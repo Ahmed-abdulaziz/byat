@@ -1,0 +1,171 @@
+[23-Jun-2021 14:45:15 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:45:15 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:45:26 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:45:26 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:46:12 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:46:12 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:46:33 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:46:33 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:46:41 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:46:41 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:46:59 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:46:59 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:47:38 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:47:38 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:48:01 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:48:01 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:51:49 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:51:49 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:53:11 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:53:11 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:53:13 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:53:13 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:53:16 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:53:16 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:53:20 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:53:20 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:55:31 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:55:31 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:56:31 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:56:31 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:56:49 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:56:49 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:56:54 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 14:56:54 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 15:14:47 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 15:14:47 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 15:20:27 UTC] PHP Warning:  Uncaught ErrorException: require(/home4/kamalpps/souqrem/routes/api.php): failed to open stream: No such file or directory in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php:417
+Stack trace:
+#0 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home4/...', '/home4/kamalpps...', 417, Array)
+#1 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): require()
+#2 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home4/kamalpps...')
+#3 /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Router->group(Array, '/home4/kamalpps...')
+#4 /home4/kamalpps/souqrem/app/Providers/RouteServiceProvider.php(80): Illuminate\Routing\RouteRegistrar->group('/home4/kamalpps...')
+#5 /home4/kamalpps/souqrem/app/Prov in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417
+[23-Jun-2021 15:20:27 UTC] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home4/kamalpps/souqrem/routes/api.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/kamalpps/souqrem/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 417

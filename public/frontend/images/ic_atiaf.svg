@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic_atiaf" transform="translate(-65 -803)">
+    <path id="space" d="M0,0H24V24H0Z" transform="translate(65 803)" fill="none"/>
+    <path id="atiaf" d="M210.947,159.911v20H231.1v-20Zm8.008,18.168h-6.663l6-16.488h6.663l-3.93,10.8Zm4.14,0-1.607-4.415,2.119-5.823h2.761l3.727,10.238Z" transform="translate(-143.947 645.089)" fill="#3c4bf5" fill-rule="evenodd"/>
+  </g>
+</svg>
